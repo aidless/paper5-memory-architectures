@@ -1,4 +1,5 @@
 # paper5-memory-architectures
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  [![Data](https://img.shields.io/badge/data-CC--BY--4.0-lightgrey.svg)](LICENSE)
 
 Placeholder repo for **PAPER-E** (memory-architectures line).
 
@@ -12,3 +13,6 @@ This README exists so the slot is not an empty shell. It will be replaced by the
 ## License
 
 MIT — Liu Zewen, 2026
+
+
+> **Dual license.** Paper 5 releases the analyses and evidence files under
